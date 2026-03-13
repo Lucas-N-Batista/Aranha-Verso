@@ -58,40 +58,55 @@ spiderman-universe/
 │   └── app.js
 ├── package.json
 └── README.md
+```
 
-Instalação do Frontend
+### Instalação do Frontend
+
 1. Clone o repositóriogit clone https://github.com/your-username/your-repository.git
 2. Acesse a pasta do projetocd your-repository
 3. Instale as dependências do frontendnpm install
 4. Inicie o frontend em modo de desenvolvimentonpm run dev
 5. Abra no navegadorhttp://localhost:3000Instalação do
-Backend (Node.js)
+
+### Backend (Node.js)
+
 1. Acesse a pasta do backendcd server
 2. Instale as dependênciasnpm install
 3. Inicie o servidor backendnpm run devPor padrão, o backend pode rodar localmente em:http://localhost:5000Certifique-se de que o frontend esteja configurado para consumir corretamente o endpoint da API do backend.
-Destaques TécnicosEste projeto demonstra:
-Desenvolvimento de aplicação full stack com React, Next.js e Node.js
-Criação de componentes reutilizáveis e de fácil manutenção
-Renderização no servidor e estratégias voltadas à performance
-Integração de API REST entre frontend e backend
-Organização escalável de pastas para crescimento do projeto
-Design responsivo com foco em usabilidade em diferentes dispositivos
-Estrutura de projeto limpa e adequada para ambientes profissionais
-Melhorias Futuras
+
+## Destaques Técnicos
+
+**Este projeto demonstra:**
+
+- Desenvolvimento de aplicação full stack com React, Next.js e Node.js
+- Criação de componentes reutilizáveis e de fácil manutenção
+- Renderização no servidor e estratégias voltadas à performance
+- Integração de API REST entre frontend e backend
+- Organização escalável de pastas para crescimento do projeto
+- Design responsivo com foco em usabilidade em diferentes dispositivos
+- Estrutura de projeto limpa e adequada para ambientes profissionais
+
+### Melhorias Futuras
+
 Adicionar animações com Framer Motion
-Criar páginas individuais para cada personagem
-Implementar busca e filtros
-Adicionar dark mode / alternância de tema
-Integrar APIs externas para conteúdo dinâmico
-Introduzir favoritos e conteúdo salvo por usuário
-Valor para PortfólioEste projeto é relevante para portfólio e recrutadores porque demonstra a capacidade de:
-Construir uma aplicação completa do conceito à entrega
-Trabalhar com frameworks modernos de frontend e serviços backend
-Organizar código de forma escalável e manutenível
-Criar interfaces visualmente atraentes com foco em performance
-Unir criatividade temática com execução técnica
+
+- Criar páginas individuais para cada personagem
+- Implementar busca e filtros
+- Adicionar dark mode / alternância de tema
+- Integrar APIs externas para conteúdo dinâmico
+- Introduzir favoritos e conteúdo salvo por usuário
+
+### Valor para Portfólio
+
+Este projeto é relevante para portfólio e recrutadores porque demonstra a capacidade de:
+
+- Construir uma aplicação completa do conceito à entrega
+- Trabalhar com frameworks modernos de frontend e serviços backend
+- Organizar código de forma escalável e manutenível
+- Criar interfaces visualmente atraentes com foco em performance
+- Unir criatividade temática com execução técnica
+
 ## Author
 
 **Lucas Batista**
 [LinkedIn](https://www.linkedin.com/in/lucastechnology) | [GitHub](https://github.com/Lucas-N-Batista)
-```
