@@ -1,0 +1,35 @@
+@use "./variables.scss" as v;
+
+:root {
+  height: 100vh;
+
+  &::before {
+    content: "";
+    background: v.$background-color;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+  }
+}
+
+body {
+  margin: auto;
+  position: relative;
+  z-index: 1;
+  max-width: v.$max-width;
+  height: calc(100vh - 3.5rem);
+  overflow: hidden;
+}
+
+header {
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 3rem 3rem 0;
+  position: relative;
+  z-index: 4;
+
+}
