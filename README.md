@@ -58,7 +58,18 @@ spiderman-universe/
 │   └── app.js
 ├── package.json
 └── README.md
-Instalação do Frontend1. Clone o repositóriogit clone https://github.com/your-username/your-repository.git2. Acesse a pasta do projetocd your-repository3. Instale as dependências do frontendnpm install4. Inicie o frontend em modo de desenvolvimentonpm run dev5. Abra no navegadorhttp://localhost:3000Instalação do Backend (Node.js)1. Acesse a pasta do backendcd server2. Instale as dependênciasnpm install3. Inicie o servidor backendnpm run devPor padrão, o backend pode rodar localmente em:http://localhost:5000Certifique-se de que o frontend esteja configurado para consumir corretamente o endpoint da API do backend.Destaques TécnicosEste projeto demonstra:
+
+Instalação do Frontend
+1. Clone o repositóriogit clone https://github.com/your-username/your-repository.git
+2. Acesse a pasta do projetocd your-repository
+3. Instale as dependências do frontendnpm install
+4. Inicie o frontend em modo de desenvolvimentonpm run dev
+5. Abra no navegadorhttp://localhost:3000Instalação do
+Backend (Node.js)
+1. Acesse a pasta do backendcd server
+2. Instale as dependênciasnpm install
+3. Inicie o servidor backendnpm run devPor padrão, o backend pode rodar localmente em:http://localhost:5000Certifique-se de que o frontend esteja configurado para consumir corretamente o endpoint da API do backend.
+Destaques TécnicosEste projeto demonstra:
 Desenvolvimento de aplicação full stack com React, Next.js e Node.js
 Criação de componentes reutilizáveis e de fácil manutenção
 Renderização no servidor e estratégias voltadas à performance
@@ -79,7 +90,8 @@ Trabalhar com frameworks modernos de frontend e serviços backend
 Organizar código de forma escalável e manutenível
 Criar interfaces visualmente atraentes com foco em performance
 Unir criatividade temática com execução técnica
-AutorSeu Nome
-LinkedIn [www.linkedin.com/in/lucastechnology] | GitHub [https://github.com/Lucas-N-Batista]
+## Author
 
+**Lucas Batista**
+[LinkedIn](https://www.linkedin.com/in/lucastechnology) | [GitHub](https://github.com/Lucas-N-Batista)
 ```
